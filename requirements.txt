@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 seaborn
 nltk
+streamlit-extras  # Added missing dependency
