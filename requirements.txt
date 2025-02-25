@@ -1,9 +1,8 @@
-streamlit
-tensorflow
+streamlit==1.30.0
+tensorflow==2.17.1  # Updated to a version compatible with Python 3.12
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
-pickle5
-streamlit-extras
+nltk
