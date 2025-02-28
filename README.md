@@ -40,8 +40,6 @@ This project applies **Artificial Neural Networks (ANN)** to analyze sentiments 
 ---
 
 ## 🎯 Model Evaluation  
-- **Training Accuracy**: ✅ ~94%  
-- **Test Accuracy**: 83% (Could be improved with hyperparameter tuning)  
 - **Confusion Matrix & Classification Report** for performance assessment.  
 
 ---
